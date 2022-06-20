@@ -16,3 +16,14 @@ Adhere to this 90-day roadmap (https://whimsical.com/dsa-in-90-days-EmPkf5utoFGR
 
 1. Subsets - https://leetcode.com/problems/subsets/
 2. Subset Sum - https://www.codingninjas.com/codestudio/problems/subset-sum_3843086?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website
+
+
+## Day 2
+
+Explored the all subsets problem, with a slight variation i.e. the usage of a for loop in the recursive util method.
+Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55cI3Z0VrNOyLWpH
+
+### Problems Solved
+
+1. Subsets - https://leetcode.com/problems/subsets/
+2. Subsets 2 (unique subsets) - https://bit.ly/3qnaLjq
