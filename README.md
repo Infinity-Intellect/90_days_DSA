@@ -36,3 +36,8 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 1. Power of three - https://leetcode.com/problems/power-of-three
 2. Power of four - https://leetcode.com/problems/power-of-four
 3. Fibonacci - https://leetcode.com/problems/fibonacci-number
+
+## Day 4 (23/06/2022)
+
+1. Explored the Palindrome Partitioning problem, tried to devise a solution, but did not work. Will have to work work out the steps after having a look at the solution.
+2. Watched the tutorial for k-th permutation - https://www.youtube.com/watch?v=wT7gcXLYoao&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=56
