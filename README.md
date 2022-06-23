@@ -7,7 +7,7 @@ Adhere to this 90-day roadmap (https://whimsical.com/dsa-in-90-days-EmPkf5utoFGR
 
 # Days 1 to 10 (Recursion)
 
-## Day 1
+## Day 1 (19/06/2022)
 
 ### Resources used in the learing phase
 1. Recursion Playlist https://www.youtube.com/watch?v=AxNNVECce8c&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=7
@@ -18,7 +18,7 @@ Adhere to this 90-day roadmap (https://whimsical.com/dsa-in-90-days-EmPkf5utoFGR
 2. Subset Sum - https://www.codingninjas.com/codestudio/problems/subset-sum_3843086?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website
 
 
-## Day 2
+## Day 2 (20/06/2022)
 
 Explored the all subsets problem, with a slight variation i.e. the usage of a for loop in the recursive util method.
 Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55cI3Z0VrNOyLWpH
@@ -30,7 +30,8 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 3. Combination sum 1 - https://leetcode.com/problems/combination-sum/
 4. Combination sum 2 - https://leetcode.com/problems/combination-sum-ii/
 
-## Day 3 (Cheat day)
+## Day 3 (21/06/2022) 
+(Cheat day)
 
 1. Power of three - https://leetcode.com/problems/power-of-three
 2. Power of four - https://leetcode.com/problems/power-of-four
