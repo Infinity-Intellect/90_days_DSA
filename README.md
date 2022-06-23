@@ -29,3 +29,9 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 2. Subsets 2 (unique subsets) - https://bit.ly/3qnaLjq
 3. Combination sum 1 - https://leetcode.com/problems/combination-sum/
 4. Combination sum 2 - https://leetcode.com/problems/combination-sum-ii/
+
+## Day 3 (Cheat day)
+
+1. Power of three - https://leetcode.com/problems/power-of-three
+2. Power of four - https://leetcode.com/problems/power-of-four
+3. Fibonacci - https://leetcode.com/problems/fibonacci-number
