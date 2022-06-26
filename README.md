@@ -59,3 +59,4 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
          ```
 4. K-th Permutation (Optimal) - https://leetcode.com/problems/permutation-sequence/
 5. N-Queens - https://leetcode.com/problems/n-queens/
+6. Sudoku Solver - https://leetcode.com/problems/sudoku-solver/
