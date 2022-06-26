@@ -48,8 +48,12 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 2. Palindrome Partitioning - https://leetcode.com/problems/palindrome-partitioning/
 3. K-th Permutation (Brute Force) - https://leetcode.com/problems/permutation-sequence/
     New C++ knowledge gained:
-      1. stringstream ss;
+      1. ```
+         stringstream ss;
          string s = copy(intVector.begin(), intVector.end(), ostream_iterator<int>(ss, ""));
-         Converts an vector<int> to a string
-      2. iota(intVector.begin(), intVector.end(), 1);
-         Generates an inteeger vector from 1 to intVector.size()
+         // Converts a vector<int> to a string
+         ```
+      2. ```
+         iota(intVector.begin(), intVector.end(), 1);
+         // Generates an integer vector from 1 to intVector.size()
+         ```
