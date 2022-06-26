@@ -41,3 +41,15 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 
 1. Explored the Palindrome Partitioning problem, tried to devise a solution, but did not work. Will have to work work out the steps after having a look at the solution.
 2. Watched the tutorial for k-th permutation - https://www.youtube.com/watch?v=wT7gcXLYoao&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=56
+
+## Day 7 (26/06/2022)
+
+1. Print all permutations of an array - https://leetcode.com/problems/permutations/
+2. Palindrome Partitioning - https://leetcode.com/problems/palindrome-partitioning/
+3. K-th Permutation (Brute Force) - https://leetcode.com/problems/permutation-sequence/
+    New C++ knowledge gained:
+      1. stringstream ss;
+         string s = copy(intVector.begin(), intVector.end(), ostream_iterator<int>(ss, ""));
+         Converts an vector<int> to a string
+      2. iota(intVector.begin(), intVector.end(), 1);
+         Generates an inteeger vector from 1 to intVector.size()
