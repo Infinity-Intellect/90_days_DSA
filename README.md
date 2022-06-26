@@ -47,7 +47,7 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 1. Print all permutations of an array - https://leetcode.com/problems/permutations/
 2. Palindrome Partitioning - https://leetcode.com/problems/palindrome-partitioning/
 3. K-th Permutation (Brute Force) - https://leetcode.com/problems/permutation-sequence/
-    New C++ knowledge gained:
+    ### New C++ knowledge gained:
       1. ```
          stringstream ss;
          string s = copy(intVector.begin(), intVector.end(), ostream_iterator<int>(ss, ""));
