@@ -61,6 +61,6 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 5. N-Queens - https://leetcode.com/problems/n-queens/
 6. Sudoku Solver - https://leetcode.com/problems/sudoku-solver/
 
-## Day 8 (03/07/2022)
+## Day 8 (02/07/2022)
 
 1. M-Coloring - https://www.codingninjas.com/codestudio/problems/981273?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=0
