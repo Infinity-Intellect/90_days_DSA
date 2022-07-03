@@ -50,7 +50,8 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
     ### New C++ knowledge gained:
       1. ```
          stringstream ss;
-         string s = copy(intVector.begin(), intVector.end(), ostream_iterator<int>(ss, ""));
+         copy(intVector.begin(), intVector.end(), ostream_iterator<int>(ss, ""));
+         string s = ss.str();
          // Converts a vector<int> to a string
          ```
       2. ```
@@ -65,3 +66,7 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 
 1. M-Coloring - https://www.codingninjas.com/codestudio/problems/981273?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=0
 2. Rat in a Maze - https://www.codingninjas.com/codestudio/problems/758966?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=0
+
+## Day 9 (03/07/2022)
+
+1. Word break - https://bit.ly/3FxgW92
