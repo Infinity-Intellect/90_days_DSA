@@ -74,3 +74,4 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 ## Day 10 (04/07/2022)
 
 1. Pow(x, n) - https://leetcode.com/problems/powx-n/
+2. Different Ways to Add Parantheses - https://leetcode.com/problems/different-ways-to-add-parentheses/
