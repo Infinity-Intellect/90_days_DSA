@@ -70,3 +70,7 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 ## Day 9 (03/07/2022)
 
 1. Word break - https://bit.ly/3FxgW92
+
+## Day 10 (04/07/2022)
+
+1. Pow(x, n) - https://leetcode.com/problems/powx-n/
