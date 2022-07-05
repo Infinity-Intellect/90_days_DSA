@@ -82,3 +82,6 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 
 1. Decode String - https://leetcode.com/problems/decode-string/
 2. Set matrix zeroes - https://leetcode.com/problems/set-matrix-zeroes/
+3. Pascal's Triangle - https://leetcode.com/problems/pascals-triangle/
+4. Stock Buy and Sell - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
