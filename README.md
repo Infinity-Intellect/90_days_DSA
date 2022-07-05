@@ -81,3 +81,4 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 ## Day 11 (05/07/2022)
 
 1. Decode String - https://leetcode.com/problems/decode-string/
+2. Set matrix zeroes - https://leetcode.com/problems/set-matrix-zeroes/
