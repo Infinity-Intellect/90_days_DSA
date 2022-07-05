@@ -75,3 +75,9 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 
 1. Pow(x, n) - https://leetcode.com/problems/powx-n/
 2. Different Ways to Add Parantheses - https://leetcode.com/problems/different-ways-to-add-parentheses/
+
+# Days 11 to 30 (Basic DS i.e. Arrays, Linked List, Stacks and Queues)
+
+## Day 11 (05/07/2022)
+
+1. Decode String - https://leetcode.com/problems/decode-string/
