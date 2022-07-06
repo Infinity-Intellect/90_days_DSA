@@ -89,3 +89,4 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 
 1. Maximum Subarray Sum (Kadane's Algorithm) - https://leetcode.com/problems/maximum-subarray/
 2. Next Permutation - https://leetcode.com/problems/next-permutation/
+3. Sort arrays of 0s, 1s and 2s (Solved using Naive and Dutch National Flag Algo approaches) - https://leetcode.com/problems/sort-colors/
