@@ -88,4 +88,4 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 ## Day 12 (06/07/2022)
 
 1. Maximum Subarray Sum (Kadane's Algorithm) - https://leetcode.com/problems/maximum-subarray/
-
+2. Next Permutation - https://leetcode.com/problems/next-permutation/
