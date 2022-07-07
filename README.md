@@ -94,3 +94,4 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 ## Day 13 (07/07/2022)
 
 1. Rotate Image by 90 degree - https://leetcode.com/problems/rotate-image/
+2. Merge Intervals - https://leetcode.com/problems/merge-intervals/
