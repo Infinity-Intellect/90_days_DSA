@@ -96,3 +96,4 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 1. Rotate Image by 90 degree - https://leetcode.com/problems/rotate-image/
 2. Merge Intervals - https://leetcode.com/problems/merge-intervals/
 3. Merge sorted arrays - https://leetcode.com/problems/merge-sorted-array/
+4. Find the duplicate number - https://leetcode.com/problems/find-the-duplicate-number/
