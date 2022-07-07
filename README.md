@@ -97,3 +97,4 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 2. Merge Intervals - https://leetcode.com/problems/merge-intervals/
 3. Merge sorted arrays - https://leetcode.com/problems/merge-sorted-array/
 4. Find the duplicate number - https://leetcode.com/problems/find-the-duplicate-number/
+5. Missing and repeating numbers - https://bit.ly/3Gs6wZu
