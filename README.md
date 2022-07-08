@@ -98,3 +98,7 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 3. Merge sorted arrays - https://leetcode.com/problems/merge-sorted-array/
 4. Find the duplicate number - https://leetcode.com/problems/find-the-duplicate-number/
 5. Missing and repeating numbers - https://bit.ly/3Gs6wZu
+
+## Day 14 (08/07/2022)
+
+1. Count Inversions - https://bit.ly/339fFb7 (**Revisit the merge method**  [Line 27](https://github.com/Infinity-Intellect/90_days_DSA/blob/main/Day14/countInversion.cpp#L27))
