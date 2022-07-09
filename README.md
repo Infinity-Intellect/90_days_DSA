@@ -106,4 +106,4 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 ## Day 15 (09/07/2022)
 
 1. Search a 2D Matrix - https://leetcode.com/problems/search-a-2d-matrix/
-2. Majority Element - https://leetcode.com/problems/majority-element/
+2. Majority Element greater than n/2 - https://leetcode.com/problems/majority-element/
