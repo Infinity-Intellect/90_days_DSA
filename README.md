@@ -102,3 +102,7 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 ## Day 14 (08/07/2022)
 
 1. Count Inversions - https://bit.ly/339fFb7 (**Revisit the merge method**  [Line 27](https://github.com/Infinity-Intellect/90_days_DSA/blob/main/Day14/countInversion.cpp#L27))
+
+## Day 15 (09/07/2022)
+
+1. Search a 2D Matrix - https://leetcode.com/problems/search-a-2d-matrix/
