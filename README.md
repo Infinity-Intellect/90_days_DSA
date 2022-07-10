@@ -108,3 +108,7 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 1. Search a 2D Matrix - https://leetcode.com/problems/search-a-2d-matrix/
 2. Majority Element greater than n/2 - https://leetcode.com/problems/majority-element/
 3. Two Sum - https://leetcode.com/problems/two-sum/
+
+## Day 16 (10/07/2022)
+
+1. Majority element greater than n/3 (extended Boyer Moore's voting algo) - https://leetcode.com/problems/majority-element-ii/
