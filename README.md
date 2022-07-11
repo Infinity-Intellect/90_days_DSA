@@ -113,3 +113,7 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 
 1. Majority element greater than n/3 (extended Boyer Moore's voting algo) - https://leetcode.com/problems/majority-element-ii/
 2. Unique Paths - https://leetcode.com/problems/unique-paths/
+
+## Day 17 (11/07/2022)
+
+1. Reverse Pairs - https://leetcode.com/problems/reverse-pairs/
