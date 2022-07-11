@@ -117,3 +117,4 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 ## Day 17 (11/07/2022)
 
 1. Reverse Pairs - https://leetcode.com/problems/reverse-pairs/
+2. Longest consecutive sequence - https://leetcode.com/problems/longest-consecutive-sequence/
