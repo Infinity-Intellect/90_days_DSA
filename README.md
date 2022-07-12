@@ -118,3 +118,18 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 
 1. Reverse Pairs - https://leetcode.com/problems/reverse-pairs/
 2. Longest consecutive sequence - https://leetcode.com/problems/longest-consecutive-sequence/
+
+## Day 18 (12/07/2022)
+
+1. 4 sum - https://leetcode.com/problems/4sum/
+   ### New C++ Knowledge Gained
+   1. In case there is a need to have set of tuples,
+   ```
+   multiset<int> m;
+   ```
+   2. Convert multiset<int> to vector<int>
+   ```
+   multiset<int> m;
+   vector<int> v(m.begin(), m.end());
+   ```
+   
