@@ -132,4 +132,4 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
    multiset<int> m;
    vector<int> v(m.begin(), m.end());
    ```
-   
+2. Longest subarray sum of 0 - https://bit.ly/31UHoeM (prefix sum approach with map<int,int>)
