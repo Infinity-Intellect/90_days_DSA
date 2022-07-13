@@ -133,3 +133,7 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
    vector<int> v(m.begin(), m.end());
    ```
 2. Longest subarray sum of 0 - https://bit.ly/31UHoeM (prefix sum approach with map<int,int>)
+
+## Day 19 (13/07/2022)
+
+1. Count subarrays with given XOR - https://bit.ly/3fp24yN
