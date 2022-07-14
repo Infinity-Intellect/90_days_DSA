@@ -78,20 +78,20 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 
 # Days 11 to 30 (Basic DS i.e. Arrays, Linked List, Stacks and Queues)
 
-## Day 11 (05/07/2022)
+## Day 11 (05/07/2022) [Array]
 
 1. Decode String - https://leetcode.com/problems/decode-string/
 2. Set matrix zeroes - https://leetcode.com/problems/set-matrix-zeroes/
 3. Pascal's Triangle - https://leetcode.com/problems/pascals-triangle/
 4. Stock Buy and Sell - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
-## Day 12 (06/07/2022)
+## Day 12 (06/07/2022) [Array]
 
 1. Maximum Subarray Sum (Kadane's Algorithm) - https://leetcode.com/problems/maximum-subarray/
 2. Next Permutation - https://leetcode.com/problems/next-permutation/
 3. Sort arrays of 0s, 1s and 2s (Solved using Naive and Dutch National Flag Algo approaches) - https://leetcode.com/problems/sort-colors/
 
-## Day 13 (07/07/2022)
+## Day 13 (07/07/2022) [Array]
 
 1. Rotate Image by 90 degree - https://leetcode.com/problems/rotate-image/
 2. Merge Intervals - https://leetcode.com/problems/merge-intervals/
@@ -99,27 +99,27 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 4. Find the duplicate number - https://leetcode.com/problems/find-the-duplicate-number/
 5. Missing and repeating numbers - https://bit.ly/3Gs6wZu
 
-## Day 14 (08/07/2022)
+## Day 14 (08/07/2022) [Array]
 
 1. Count Inversions - https://bit.ly/339fFb7 (**Revisit the merge method**  [Line 27](https://github.com/Infinity-Intellect/90_days_DSA/blob/main/Day14/countInversion.cpp#L27))
 
-## Day 15 (09/07/2022)
+## Day 15 (09/07/2022) [Array]
 
 1. Search a 2D Matrix - https://leetcode.com/problems/search-a-2d-matrix/
 2. Majority Element greater than n/2 - https://leetcode.com/problems/majority-element/
 3. Two Sum - https://leetcode.com/problems/two-sum/
 
-## Day 16 (10/07/2022)
+## Day 16 (10/07/2022) [Array]
 
 1. Majority element greater than n/3 (extended Boyer Moore's voting algo) - https://leetcode.com/problems/majority-element-ii/
 2. Unique Paths - https://leetcode.com/problems/unique-paths/
 
-## Day 17 (11/07/2022)
+## Day 17 (11/07/2022) [Array]
 
 1. Reverse Pairs - https://leetcode.com/problems/reverse-pairs/
 2. Longest consecutive sequence - https://leetcode.com/problems/longest-consecutive-sequence/
 
-## Day 18 (12/07/2022)
+## Day 18 (12/07/2022) [Array]
 
 1. 4 sum - https://leetcode.com/problems/4sum/
    ### New C++ Knowledge Gained
@@ -134,12 +134,13 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
    ```
 2. Longest subarray sum of 0 - https://bit.ly/31UHoeM (prefix sum approach with map<int,int>)
 
-## Day 19 (13/07/2022)
+## Day 19 (13/07/2022) [Array]
 
 1. Count subarrays with given XOR - https://bit.ly/3fp24yN
 2. Length of longest substring without repeating characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
-## Day 20 (14/07/2022)
+## Day 20 (14/07/2022) [Linked List]
 
 1. Reverse linked list (both iterative and recursive) - https://leetcode.com/problems/reverse-linked-list/
 2. Middle of linked list - https://leetcode.com/problems/middle-of-the-linked-list/
+3. Merge two sorted linked lists - https://leetcode.com/problems/merge-two-sorted-lists/
