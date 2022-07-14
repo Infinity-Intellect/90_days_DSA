@@ -138,3 +138,7 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 
 1. Count subarrays with given XOR - https://bit.ly/3fp24yN
 2. Length of longest substring without repeating characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+## Day 20 (14/07/2022)
+
+1. Reverse linked list (both iterative and recursive) - https://leetcode.com/problems/reverse-linked-list/
