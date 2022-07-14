@@ -142,3 +142,4 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 ## Day 20 (14/07/2022)
 
 1. Reverse linked list (both iterative and recursive) - https://leetcode.com/problems/reverse-linked-list/
+2. Middle of linked list - https://leetcode.com/problems/middle-of-the-linked-list/
