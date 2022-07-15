@@ -147,3 +147,8 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 4. Remove nth node from the last - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 5. Add two numbers - https://leetcode.com/problems/add-two-numbers/
 6. Delete node in a linked list O(1) - https://leetcode.com/problems/delete-node-in-a-linked-list/
+
+## Day 21 (15/07/2022)
+
+1. Linked List Cycle - https://leetcode.com/problems/linked-list-cycle/
+2. Intersection of two linked lists - https://leetcode.com/problems/intersection-of-two-linked-lists/
