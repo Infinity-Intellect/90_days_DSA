@@ -152,3 +152,8 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 
 1. Linked List Cycle - https://leetcode.com/problems/linked-list-cycle/
 2. Intersection of two linked lists - https://leetcode.com/problems/intersection-of-two-linked-lists/
+
+## Day 22 (16/07/2022)
+
+1. Palindrome linked list - https://leetcode.com/problems/palindrome-linked-list/
+2. Find starting point of loop of linked list - https://leetcode.com/problems/linked-list-cycle-ii/
