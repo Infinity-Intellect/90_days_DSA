@@ -148,12 +148,15 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 5. Add two numbers - https://leetcode.com/problems/add-two-numbers/
 6. Delete node in a linked list O(1) - https://leetcode.com/problems/delete-node-in-a-linked-list/
 
-## Day 21 (15/07/2022)
+## Day 21 (15/07/2022) [Linked list]
 
 1. Linked List Cycle - https://leetcode.com/problems/linked-list-cycle/
 2. Intersection of two linked lists - https://leetcode.com/problems/intersection-of-two-linked-lists/
 
-## Day 22 (16/07/2022)
+## Day 22 (16/07/2022) [Linked list and arrays]
 
 1. Palindrome linked list - https://leetcode.com/problems/palindrome-linked-list/
 2. Find starting point of loop of linked list - https://leetcode.com/problems/linked-list-cycle-ii/
+3. Flatten linked list - https://bit.ly/3nqtEA1
+4. Remove duplicates from sorted array - https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+5. Maximum consecutive ones - https://leetcode.com/problems/max-consecutive-ones/
