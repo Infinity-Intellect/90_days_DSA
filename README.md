@@ -160,3 +160,4 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 3. Flatten linked list - https://bit.ly/3nqtEA1
 4. Remove duplicates from sorted array - https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 5. Maximum consecutive ones - https://leetcode.com/problems/max-consecutive-ones/
+6. Rotate List - https://leetcode.com/problems/rotate-list/
