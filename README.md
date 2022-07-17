@@ -161,3 +161,7 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 4. Remove duplicates from sorted array - https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 5. Maximum consecutive ones - https://leetcode.com/problems/max-consecutive-ones/
 6. Rotate List - https://leetcode.com/problems/rotate-list/
+
+## Day 23 (17/07/2022)
+
+1. Reverse nodes in k-group - https://leetcode.com/problems/reverse-nodes-in-k-group/
