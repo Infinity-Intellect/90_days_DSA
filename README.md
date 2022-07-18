@@ -170,3 +170,4 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 ## Day 24 (18/07/2022)
 
 1. Copy list with random pointer - https://leetcode.com/problems/copy-list-with-random-pointer/
+2. Implement queue using arrays - https://bit.ly/3KbIjIW
