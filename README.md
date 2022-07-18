@@ -171,3 +171,4 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 
 1. Copy list with random pointer - https://leetcode.com/problems/copy-list-with-random-pointer/
 2. Implement queue using arrays - https://bit.ly/3KbIjIW
+3. Implement stack using queues - https://leetcode.com/problems/implement-stack-using-queues/
