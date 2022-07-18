@@ -166,3 +166,7 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 
 1. Reverse nodes in k-group - https://leetcode.com/problems/reverse-nodes-in-k-group/
 2. 3Sum - https://leetcode.com/problems/3sum/
+
+## Day 24 (18/07/2022)
+
+1. Copy list with random pointer - https://leetcode.com/problems/copy-list-with-random-pointer/
