@@ -173,3 +173,7 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 2. Implement queue using arrays - https://bit.ly/3KbIjIW
 3. Implement stack using queues - https://leetcode.com/problems/implement-stack-using-queues/
 4. Valid paretheses - https://leetcode.com/problems/valid-parentheses/
+
+## Day 25 (19/07/2022)
+
+1. Valid palindrome - https://leetcode.com/problems/valid-palindrome/
