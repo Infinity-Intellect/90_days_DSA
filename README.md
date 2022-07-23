@@ -177,3 +177,7 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 ## Day 25 (19/07/2022)
 
 1. Valid palindrome - https://leetcode.com/problems/valid-palindrome/
+
+## Day 26 (23/07/2022)
+
+1. Trapping Rain Water (Brute Force, NA) - https://leetcode.com/problems/trapping-rain-water/
