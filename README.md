@@ -190,3 +190,4 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 
 1. Trapping Rain Water ( O(N) time and constant space) - https://leetcode.com/problems/trapping-rain-water/
 2. Next greater element - https://leetcode.com/problems/next-greater-element-i/
+3. Sort a stack - https://bit.ly/3nptF7k
