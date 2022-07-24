@@ -14,9 +14,10 @@ Adhere to this 90-day roadmap (https://whimsical.com/dsa-in-90-days-EmPkf5utoFGR
 
 ### Problems Solved
 
-1. Subsets - https://leetcode.com/problems/subsets/
-2. Subset Sum - https://www.codingninjas.com/codestudio/problems/subset-sum_3843086?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website
-
+|   |Problem Name|Link|My Code|
+|---|---|---|---|
+|1.|Subsets|[Link](https://leetcode.com/problems/subsets/)|[Code](/Day1/allSubsets.cpp)|
+|2.|Subset Sum|[Link](https://www.codingninjas.com/codestudio/problems/subset-sum_3843086?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website)|[Code](/Day1/subsetSum.cpp)| 
 
 ## Day 2 (20/06/2022)
 
@@ -25,10 +26,12 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 
 ### Problems Solved
 
-1. Subsets - https://leetcode.com/problems/subsets/
-2. Subsets 2 (unique subsets) - https://bit.ly/3qnaLjq
-3. Combination sum 1 - https://leetcode.com/problems/combination-sum/
-4. Combination sum 2 - https://leetcode.com/problems/combination-sum-ii/
+|   |Problem Name|Link|My Code|
+|---|---|---|---|
+|1.|Subsets|[Link](https://leetcode.com/problems/subsets/)|[Code](/Day2/allSubsets_WithForLoop.cpp)|
+|2.|Subset 2|[Link](https://bit.ly/3qnaLjq)|[Code](/Day2/subset2.cpp)| 
+|3.|Combination sum 1|[Link](https://leetcode.com/problems/combination-sum/)|[Code](/Day2/combinationSum1.cpp)| 
+|4.|Combination sum 2|[Link](https://leetcode.com/problems/combination-sum-ii/)|[Code](/Day2/combinationSum2.cpp)|
 
 ## Day 3 (21/06/2022) 
 (Cheat day)
