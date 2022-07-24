@@ -189,3 +189,4 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 ## Day 27 (24/07/2022)
 
 1. Trapping Rain Water ( O(N) time and constant space) - https://leetcode.com/problems/trapping-rain-water/
+2. Next greater element - https://leetcode.com/problems/next-greater-element-i/
