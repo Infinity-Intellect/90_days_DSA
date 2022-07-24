@@ -182,3 +182,7 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 
 1. Trapping Rain Water (Brute Force, TLE) - https://leetcode.com/submissions/detail/754308761/
 2. Trapping Rain Water ( O(N) time and O(N) space) - https://leetcode.com/submissions/detail/754347851/
+
+## Day 27 (24/07/2022)
+
+1. Trapping Rain Water ( O(N) time and constant space) - https://leetcode.com/problems/trapping-rain-water/
