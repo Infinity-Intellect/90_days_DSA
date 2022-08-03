@@ -192,3 +192,7 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 2. Next greater element - https://leetcode.com/problems/next-greater-element-i/
 3. Sort a stack - https://bit.ly/3nptF7k
 4. Next smaller element - https://bit.ly/3K6WVtb
+
+## Day 28 (03/08/2022)
+
+1. Min Stack - https://leetcode.com/problems/min-stack/
