@@ -196,3 +196,6 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 ## Day 28 (03/08/2022)
 
 1. Min Stack - https://leetcode.com/problems/min-stack/
+
+## Day 29 (23/08/2022)
+1. LRU Cache - https://leetcode.com/problems/lru-cache/
