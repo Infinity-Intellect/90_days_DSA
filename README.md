@@ -199,3 +199,6 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 
 ## Day 29 (23/08/2022)
 1. LRU Cache - https://leetcode.com/problems/lru-cache/
+
+## Day 30 (26/08/2022)
+1. Sliding window maximum - https://leetcode.com/problems/sliding-window-maximum/
