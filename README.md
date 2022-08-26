@@ -202,3 +202,4 @@ Reference: https://www.youtube.com/watch?v=kYY9DotIKlo&list=PLzffTJx5aHaSJ4XaG55
 
 ## Day 30 (26/08/2022)
 1. Sliding window maximum - https://leetcode.com/problems/sliding-window-maximum/
+2. Celebrity Problem - https://bit.ly/3GuImxi
